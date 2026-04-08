@@ -1,0 +1,2 @@
+# GDFox
+Discord Bot
